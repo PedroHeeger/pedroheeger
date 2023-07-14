@@ -47,9 +47,13 @@
 
 ## Main Repository
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroHeeger&repo=github-readme-stats&show_owner=true&theme=holi)](https://github.com/PedroHeeger/github-readme-stats)
+This is my main repository where I talk a little more about myself and explain my GitHub account.
 
-## Project Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroHeeger&repo=main&show_owner=true&theme=holi)](https://github.com/PedroHeeger/main)
+
+## Study Repositories
+
+These are my study repositories, where I create my specific projects for each study I carry out.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroHeeger&repo=course&show_owner=true&theme=holi)](https://github.com/PedroHeeger/course)
 
