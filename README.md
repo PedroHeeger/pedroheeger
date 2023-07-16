@@ -56,9 +56,9 @@ This is my main repository where I talk a little more about myself and explain m
 
 These are my study repositories, where I create my specific projects for each study I carry out.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroHeeger&repo=course&show_owner=true&theme=holi)](https://github.com/PedroHeeger/course)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroHeeger&repo=boot&show_owner=true&theme=holi)](https://github.com/PedroHeeger/boot)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroHeeger&repo=course&show_owner=true&theme=holi)](https://github.com/PedroHeeger/course)
 
 ## Main Projects
 
@@ -66,12 +66,13 @@ These are my main projects from my repositories.
 
 ### Bootcamps (Study Repository):
 
+[![Linux do Zero]()](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03)
+
 ### Course (Study Repository):
 
-[![Dev Week - Ifood Ciência de Dados com Python]()](https://github.com/PedroHeeger/course/tree/main/dio/python/curso_066)
+<a href="https://github.com/PedroHeeger/course/tree/main/dio/python/curso_066">curso_066 (Dev Week - Ifood Ciência de Dados com Python)   <img src="https://github.com/PedroHeeger/course/blob/main/dio/python/curso_066/0-aux/dev_week.png" alt="curso_066" width="auto" height="25"></a>
 
-[![Desafio Kickstart 1 | Atendimento Laboratorial]()](github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_069)
-
+<a href="https://github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_069">curso_069 (Desafio Kickstart 1  | Atendimento Laboratorial)   <img src="https://github.com/PedroHeeger/course/blob/main/xperiun/power_bi/curso_069/0-aux/logo_1.png" alt="curso_069" width="auto" height="25"></a>
 
 ## Main Reports and Dashboards
 
@@ -81,5 +82,5 @@ These are my main reports and dashboards regarding the projects developed in the
 
 ### Course (Study Repository):
 
-[![Desafio Kickstart 1 | Atendimento Laboratorial]()]([github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_069](https://app.powerbi.com/view?r=eyJrIjoiOGUyZjM5ZmQtYzE4Yy00YTYxLTg0YzMtMjgzMTYyN2U0MDhiIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9))
+<a href="https://app.powerbi.com/view?r=eyJrIjoiOGUyZjM5ZmQtYzE4Yy00YTYxLTg0YzMtMjgzMTYyN2U0MDhiIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9">curso_069 (Desafio Kickstart 1  | Atendimento Laboratorial)   <img src="https://github.com/PedroHeeger/course/blob/main/xperiun/power_bi/curso_069/0-aux/logo_1.png" alt="curso_069" width="auto" height="25"></a>
 
