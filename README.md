@@ -1,7 +1,7 @@
 
 ## Hi, I'm Pedro Heeger! 🤙🏻 <br>
 
-#### Data Engineer
+### Data Engineer
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://pedroheeger.github.io/main/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroheeger)
@@ -9,6 +9,9 @@
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
+I started my career in Civil Engineering until I made the most important decision of my life, so far, which was to break into this world of technology and start a career transition process to the data area, which is where I find myself today.
+
+I've always been fascinated by technology and, mainly, by data, I've always liked to create tables and organize information about things that were relevant to me. That's why I took this important decision to explore this area that every day has played a central role in the digital economy, driving innovation, efficiency and transformation in various sectors of society.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHeeger&show_icons=true&hide=stars,issues,contribs&theme=holi)
 
@@ -66,13 +69,13 @@ These are my main projects from my repositories.
 
 ### Bootcamps (Study Repository):
 
-[![Linux do Zero]()](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03)
+- <a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03">boot_03 (Linux do Zero)   <img src="https://github.com/PedroHeeger/boot/blob/main/dio/linux/boot_03/0-aux/logo_boot.png" alt="boot_003" width="auto" height="25"></a>
 
 ### Course (Study Repository):
 
-<a href="https://github.com/PedroHeeger/course/tree/main/dio/python/curso_066">curso_066 (Dev Week - Ifood Ciência de Dados com Python)   <img src="https://github.com/PedroHeeger/course/blob/main/dio/python/curso_066/0-aux/dev_week.png" alt="curso_066" width="auto" height="25"></a>
+- <a href="https://github.com/PedroHeeger/course/tree/main/dio/python/curso_066">curso_066 (Dev Week - Ifood Ciência de Dados com Python)   <img src="https://github.com/PedroHeeger/course/blob/main/dio/python/curso_066/0-aux/dev_week.png" alt="curso_066" width="auto" height="25"></a>
 
-<a href="https://github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_069">curso_069 (Desafio Kickstart 1  | Atendimento Laboratorial)   <img src="https://github.com/PedroHeeger/course/blob/main/xperiun/power_bi/curso_069/0-aux/logo_1.png" alt="curso_069" width="auto" height="25"></a>
+- <a href="https://github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_069">curso_069 (Desafio Kickstart 1  | Atendimento Laboratorial)   <img src="https://github.com/PedroHeeger/course/blob/main/xperiun/power_bi/curso_069/0-aux/logo_1.png" alt="curso_069" width="auto" height="25"></a>
 
 ## Main Reports and Dashboards
 
@@ -82,5 +85,4 @@ These are my main reports and dashboards regarding the projects developed in the
 
 ### Course (Study Repository):
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiOGUyZjM5ZmQtYzE4Yy00YTYxLTg0YzMtMjgzMTYyN2U0MDhiIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9">curso_069 (Desafio Kickstart 1  | Atendimento Laboratorial)   <img src="https://github.com/PedroHeeger/course/blob/main/xperiun/power_bi/curso_069/0-aux/logo_1.png" alt="curso_069" width="auto" height="25"></a>
-
+- <a href="https://app.powerbi.com/view?r=eyJrIjoiOGUyZjM5ZmQtYzE4Yy00YTYxLTg0YzMtMjgzMTYyN2U0MDhiIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9">curso_069 (Desafio Kickstart 1  | Atendimento Laboratorial)   <img src="https://github.com/PedroHeeger/course/blob/main/xperiun/power_bi/curso_069/0-aux/logo_1.png" alt="curso_069" width="auto" height="25"></a>
