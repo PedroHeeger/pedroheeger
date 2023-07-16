@@ -3,10 +3,11 @@
 
 #### Data Engineer
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)]()
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://pedroheeger.github.io/main/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroheeger)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroheeger/)
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHeeger&show_icons=true&hide=stars,issues,contribs&theme=holi)
@@ -58,3 +59,27 @@ These are my study repositories, where I create my specific projects for each st
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroHeeger&repo=course&show_owner=true&theme=holi)](https://github.com/PedroHeeger/course)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroHeeger&repo=boot&show_owner=true&theme=holi)](https://github.com/PedroHeeger/boot)
+
+## Main Projects
+
+These are my main projects from my repositories.
+
+### Bootcamps (Study Repository):
+
+### Course (Study Repository):
+
+[![Dev Week - Ifood Ciência de Dados com Python]()](https://github.com/PedroHeeger/course/tree/main/dio/python/curso_066)
+
+[![Desafio Kickstart 1 | Atendimento Laboratorial]()](github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_069)
+
+
+## Main Reports and Dashboards
+
+These are my main reports and dashboards regarding the projects developed in the my repositories.
+
+### Bootcamps (Study Repository):
+
+### Course (Study Repository):
+
+[![Desafio Kickstart 1 | Atendimento Laboratorial]()]([github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_069](https://app.powerbi.com/view?r=eyJrIjoiOGUyZjM5ZmQtYzE4Yy00YTYxLTg0YzMtMjgzMTYyN2U0MDhiIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9))
+
