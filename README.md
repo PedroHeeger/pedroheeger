@@ -73,12 +73,20 @@ These are my study repositories, where I create my specific projects for each st
 
 These are my main projects from my repositories.
 
-### Bootcamps (Study Repository):
+### Bootcamp (Study Repository):
 
-- <a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03">boot_03 (Linux do Zero)   <img src="https://github.com/PedroHeeger/boot/blob/main/dio/linux/boot_03/0-aux/logo_boot.png" alt="boot_003" width="auto" height="25"></a>
+- <a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003">boot_003 (Linux do Zero)   <img src="https://github.com/PedroHeeger/boot/blob/main/dio/linux/boot_003/0-aux/logo_boot.png" alt="boot_003" width="auto" height="25"></a>
 
 ### Course (Study Repository):
 
+- <a href="https://github.com/PedroHeeger/course/tree/main/hashtag/power_bi/curso_041">curso_041 (Intensivão de Power BI 2023)   <img src="https://github.com/PedroHeeger/course/blob/main/hashtag/power_bi/curso_041/0-aux/logo_course.png" alt="curso_041" width="auto" height="25"></a>
+
+- <a href="https://github.com/PedroHeeger/course/tree/main/simplifica_trein/power_bi/curso_043">curso_043 (Simplifica Power Excel)   <img src="https://github.com/PedroHeeger/course/blob/main/simplifica_trein/power_bi/curso_043/0-aux/logo_course.png" alt="curso_043" width="auto" height="25"></a>
+
+- <a href="https://github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_048">curso_048 (Minicurso Power BI Experience)   <img src="https://github.com/PedroHeeger/course/blob/main/xperiun/power_bi/curso_048/0-aux/logo_course.png" alt="curso_048" width="auto" height="25"></a>
+
+- <a href="https://github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_051">curso_051 (Desafio Missão ZERO - Bootcamp HPN)   <img src="https://github.com/PedroHeeger/course/blob/main/xperiun/power_bi/curso_051/0-aux/logo_course.png" alt="curso_051" width="auto" height="25"></a>
+
 - <a href="https://github.com/PedroHeeger/course/tree/main/dio/python/curso_066">curso_066 (Dev Week - Ifood Ciência de Dados com Python)   <img src="https://github.com/PedroHeeger/course/blob/main/dio/python/curso_066/0-aux/dev_week.png" alt="curso_066" width="auto" height="25"></a>
 
-- <a href="https://github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_069">curso_069 (Desafio Kickstart 1  | Atendimento Laboratorial)   <img src="https://github.com/PedroHeeger/course/blob/main/xperiun/power_bi/curso_069/0-aux/logo_1.png" alt="curso_069" width="auto" height="25"></a>
+- <a href="https://github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_069">curso_069 (Desafio Kickstart 1  | Atendimento Laboratorial)   <img src="https://github.com/PedroHeeger/course/blob/main/xperiun/power_bi/curso_069/0-aux/logo_course.png" alt="curso_069" width="auto" height="25"></a>
