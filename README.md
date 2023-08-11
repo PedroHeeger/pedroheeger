@@ -90,3 +90,7 @@ These are my main projects from my repositories.
 - <a href="https://github.com/PedroHeeger/course/tree/main/dio/python/curso_066">curso_066 (Dev Week - Ifood Ciência de Dados com Python)   <img src="https://github.com/PedroHeeger/course/blob/main/dio/python/curso_066/0-aux/dev_week.png" alt="curso_066" width="auto" height="25"></a>
 
 - <a href="https://github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_069">curso_069 (Desafio Kickstart 1  | Atendimento Laboratorial)   <img src="https://github.com/PedroHeeger/course/blob/main/xperiun/power_bi/curso_069/0-aux/logo_course.png" alt="curso_069" width="auto" height="25"></a>
+
+- <a href="https://github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_074">curso_074 (002 - Desafio Kickstart | Filmes Netflix)   <img src="https://github.com/PedroHeeger/course/blob/main/xperiun/power_bi/curso_074/0-aux/logo_course.png" alt="curso_074" width="auto" height="25"></a>
+
+- <a href="https://github.com/PedroHeeger/course/tree/main/simplifica_trein/power_bi/curso_075">curso_075 (Simplifica Power BI)   <img src="https://github.com/PedroHeeger/course/blob/main/simplifica_trein/power_bi/curso_075/0-aux/logo_course.png" alt="curso_075" width="auto" height="25"></a>
