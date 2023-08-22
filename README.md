@@ -77,6 +77,8 @@ These are my main projects from my repositories.
 
 - <a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003">boot_003 (Linux do Zero)   <img src="https://github.com/PedroHeeger/boot/blob/main/dio/linux/boot_003/0-aux/logo_boot.png" alt="boot_003" width="auto" height="25"></a>
 
+- <a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006">boot_006 (Formação Docker Fundamentals)   <img src="https://github.com/PedroHeeger/boot/blob/main/dio/docker/boot_006/0-aux/logo_boot.png" alt="boot_006" width="auto" height="25"></a>
+
 ### Course (Study Repository):
 
 - <a href="https://github.com/PedroHeeger/course/tree/main/hashtag/power_bi/curso_041">curso_041 (Intensivão de Power BI 2023)   <img src="https://github.com/PedroHeeger/course/blob/main/hashtag/power_bi/curso_041/0-aux/logo_course.png" alt="curso_041" width="auto" height="25"></a>
@@ -94,3 +96,5 @@ These are my main projects from my repositories.
 - <a href="https://github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_074">curso_074 (002 - Desafio Kickstart | Filmes Netflix)   <img src="https://github.com/PedroHeeger/course/blob/main/xperiun/power_bi/curso_074/0-aux/logo_course.png" alt="curso_074" width="auto" height="25"></a>
 
 - <a href="https://github.com/PedroHeeger/course/tree/main/simplifica_trein/power_bi/curso_075">curso_075 (Simplifica Power BI)   <img src="https://github.com/PedroHeeger/course/blob/main/simplifica_trein/power_bi/curso_075/0-aux/logo_course.png" alt="curso_075" width="auto" height="25"></a>
+
+- <a href="https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_077">curso_077 (Linux Fundamentals)   <img src="https://github.com/PedroHeeger/course/blob/main/4.linux/linux/curso_077/0-aux/logo_course.jpg" alt="curso_077" width="auto" height="25"></a>
