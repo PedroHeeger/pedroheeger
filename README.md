@@ -69,9 +69,9 @@ These are my study repositories, where I create my specific projects for each st
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroHeeger&repo=course&show_owner=true&theme=holi)](https://github.com/PedroHeeger/course)
 
-## Main Projects
+<!-- ## Main Projects
 
-These are my main projects from my repositories.
+These are my main projects from my repositories. -->
 
 <!-- ### Bootcamp (Study Repository):
 
