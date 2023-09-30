@@ -101,7 +101,7 @@ These are my main projects from my repositories. -->
 
 
 <details>
-<summary><a name="item10"><h2 style="margin: 0;">10. Main Projects</h2></a></summary>
+<summary><h2 style="margin: 0;">Main Projects</h2></summary>
     <details><summary>Cloud Computing</summary>
         <ul>
             <li><details><summary>AWS   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="auto" height="25"></summary>
