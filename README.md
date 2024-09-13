@@ -2,13 +2,12 @@
 
 ## Welcome to my GitHub! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Call Me Hand Medium-Light Skin Tone" width="25" height="25" /> <br>
 
-<!-- <a href="https://pedroheeger.github.io/main/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" style="vertical-align: middle; margin-left: 10px;"/></a> -->
 <a href="https://www.linkedin.com/in/pedroheeger/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align: middle; margin-left: 10px;"/></a>
 <a href="https://pedroheeger.github.io/main/" target="_blank"><img src="https://img.shields.io/badge/My%20Online%20CV-FFA500?style=for-the-badge&logoColor=white" style="vertical-align: middle; margin-left: 10px;"/></a>
 <a href="https://github.com/PedroHeeger" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="vertical-align: middle; margin-left: 10px;"/></a>
 <a href="https://www.dio.me/users/pedroheeger19" target="_blank"><img src="https://img.shields.io/badge/-Perfil%20DIO-52579F?style=for-the-badge" style="vertical-align: middle; margin-left: 10px;"/></a>
-<a href="https://www.dio.me/users/pedroheeger19" target="_blank"><img src="https://img.shields.io/badge/Microsoft Learn-7CC627?style=for-the-badge&logo=microsoft&logoColor=white" style="vertical-align: middle; margin-left: 10px;"/></a>
-<a href="https://learn.microsoft.com/pt-br/users/pedroheegercosta-7965/" target="_blank"><img src="https://img.shields.io/badge/Credly-FFA500?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge" style="vertical-align: middle; margin-left: 10px;" /></a>
+<a href="https://learn.microsoft.com/pt-br/users/pedroheegercosta-7965/" target="_blank"><img src="https://img.shields.io/badge/Microsoft Learn-7CC627?style=for-the-badge&logo=microsoft&logoColor=white" style="vertical-align: middle; margin-left: 10px;"/></a>
+<a href="https://www.credly.com/users/pedro-costa.949708e2" target="_blank"><img src="https://img.shields.io/badge/Credly-FFA500?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge" style="vertical-align: middle; margin-left: 10px;" /></a>
 <a href="https://www.discord.com/channels/pedroheeger/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Credly Badge" style="vertical-align: middle; margin-left: 10px;" /></a>
 
 ## About me <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Nerd%20Face.png?raw=true" wigth="25" height="25">
