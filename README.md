@@ -12,7 +12,7 @@
     <a href="https://www.discord.com/channels/pedroheeger/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Credly Badge" style="vertical-align: middle; margin-left: 10px;" /></a>
 </div>
 
-## About me <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Nerd%20Face.png?raw=true" wigth="25" height="25">
+## Sobre Mim <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Nerd%20Face.png?raw=true" wigth="25" height="25">
 
 Iniciei minha carreira na Engenharia Civil, atuando por dois anos nas áreas de construção e saneamento. Em determinado momento, tomei uma das decisões mais importantes da minha vida até então: mergulhar no mundo da tecnologia e iniciar um processo de transição de carreira — etapa em que me encontro atualmente.
 
@@ -34,31 +34,31 @@ Essas áreas se complementam e se integram entre si, e meu plano é continuar me
 <table align="center" width="100%" style="border: 0px solid transparent; background-color: transparent;">
   <tr style="border: none; width: 100%; background-color: transparent;">
     <td align="center" style="border: none;">
-      <a href="./credentials/">
+      <a href="https://github.com/PedroHeeger/my_tech_journey/tree/main/credentials">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Receipt.png" alt="Credentials" width="120px">
         <br><span style="font-size: 1.2em;">Credenciais<br></span>
       </a>
     </td>
     <td align="center" style="border: none;">
-      <a href="./technologies/">
+      <a href="https://github.com/PedroHeeger/my_tech_journey/tree/main/technologies">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" alt="Technologies" width="120px">
         <br><span style="font-size: 1.2em;">Tecnologias<br>Estudadas</span>
       </a>
     </td>
     <td align="center" style="border: none;">
-      <a href="./projects/">
+      <a href="https://github.com/PedroHeeger/my_tech_journey/tree/main/projects">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" alt="Projects" width="120px">
         <br><span style="font-size: 1.2em;">Projetos<br></span>
       </a>
     </td>
     <td align="center" style="border: none;">
-      <a href="./books/">
+      <a href="https://github.com/PedroHeeger/my_tech_journey/tree/main/books">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="120px">
         <br><span style="font-size: 1.2em;">Livros Lidos<br></span>
       </a>
     </td>
     <td align="center" style="border: none;">
-      <a href="./platforms/">
+      <a href="https://github.com/PedroHeeger/my_tech_journey/tree/main/platforms">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Platforms" width="120px">
         <br><span style="font-size: 1.2em;">Plataformas<br>de Estudos</span>
       </a>
@@ -68,19 +68,19 @@ Essas áreas se complementam e se integram entre si, e meu plano é continuar me
 <table align="center" width="100%" style="border: 0px solid transparent; background-color: transparent;">
   <tr style="border: none; width: 100%; background-color: transparent;">
     <td align="center" style="border: none;">
-      <a href="./github/">
+      <a href="https://github.com/PedroHeeger/my_tech_journey/tree/main/github">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" alt="My GitHub" width="120px">
         <br><span style="font-size: 1.2em;">Meu GitHub<br></span>
       </a>
     </td>
     <td align="center" style="border: none;">
-      <a href="./about_me/">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="About Me" width="120px">
-        <br><span style="font-size: 1.2em;">Sobre Mim<br></span>
+      <a href="https://github.com/PedroHeeger/my_tech_journey/tree/main/about_me">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="More About Me" width="120px">
+        <br><span style="font-size: 1.2em;">Mais Sobre Mim<br></span>
       </a>
     </td>
     <td align="center" style="border: none;">
-      <a href="./online_cv/">
+      <a href="https://github.com/PedroHeeger/my_tech_journey/tree/main/online_cv">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Online CV" width="120px">
         <br><span style="font-size: 1.2em;">CV Online<br></span>
       </a>
@@ -119,7 +119,7 @@ Essas áreas se complementam e se integram entre si, e meu plano é continuar me
 
 <br>
 
-## Thanks For Visiting! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" width="25">
+## Obrigado pela visita! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" width="25">
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=PedroHeeger&color=orange&abbreviated=true" alt="Profile Views" width="130" />
