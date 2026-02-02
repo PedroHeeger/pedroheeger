@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pedro%20Heeger&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer&descAlignY=55&descAlign=55"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pedro%20Heeger&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Cloud%20Infrastructure%20Analyst&descAlignY=60&descAlign=50"/>
 
 ## Seja bem-vindo ao meu GitHub! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Call Me Hand Medium-Light Skin Tone" width="25" height="25" /> <br>
 
