@@ -3,11 +3,10 @@
 ## Seja bem-vindo ao meu GitHub! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Call Me Hand Medium-Light Skin Tone" width="25" height="25" /> <br>
 
 <div align="center">
-    <a href="https://linktr.ee/pedroheeger" target="_blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white
-" style="vertical-align: middle; margin-left: 10px;"/></a>
+    <a href="https://linktr.ee/pedroheeger" target="_blank"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" style="vertical-align: middle; margin-left: 10px;"/></a>
     <a href="https://www.linkedin.com/in/pedroheeger/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align: middle; margin-left: 10px;"/></a>
     <a href="https://github.com/PedroHeeger" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="vertical-align: middle; margin-left: 10px;"/></a>
-    <a href="https://www.credly.com/users/pedro-costa.949708e2" target="_blank"><img src="https://img.shields.io/badge/Credly-FFA500?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge" style="vertical-align: middle; margin-left: 10px;" /></a>
+    <a href="https://www.credly.com/users/pedroheeger" target="_blank"><img src="https://img.shields.io/badge/Credly-FFA500?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge" style="vertical-align: middle; margin-left: 10px;" /></a>
     <a href="https://skillsprofile.skillbuilder.aws/user/pedroheeger/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" style="vertical-align: middle; margin-left: 10px;"/></a>
     <a href="https://learn.microsoft.com/pt-br/users/pedroheegercosta-7965/" target="_blank"><img src="https://img.shields.io/badge/Microsoft Learn-7CC627?style=for-the-badge&logo=microsoft&logoColor=white" style="vertical-align: middle; margin-left: 10px;"/></a>
     <a href="https://www.dio.me/users/pedroheeger19" target="_blank"><img src="https://img.shields.io/badge/-Perfil%20DIO-52579F?style=for-the-badge" style="vertical-align: middle; margin-left: 10px;"/></a>
@@ -97,13 +96,13 @@ Na frente de segurança, utilizo ferramentas de análise ofensiva como Kali Linu
       </a>
     </td>
     <td align="center" style="border: none;">
-      <a href="./all_badges/">
+      <a href="https://github.com/PedroHeeger/my_tech_journey/tree/main/all_badges">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel and places/Star.png" alt="All Badges" width="120px">
         <br><span style="font-size: 1.2em;">Badges Completas<br></span>
       </a>
     </td>
     <td align="center" style="border: none;">
-      <a href="./online_cv/">
+      <a href="https://github.com/PedroHeeger/my_tech_journey/tree/main/online_cv">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Online CV" width="120px">
         <br><span style="font-size: 1.2em;">CV Online<br></span>
       </a>
