@@ -38,6 +38,7 @@ Na frente de segurança, utilizo ferramentas de análise ofensiva como Kali Linu
 - **Automação:** n8n e Make.
 
 🎓 **Certificações e Formação Relevante**
+- AWS Certified CloudOps Engineer – Associate (SOA)
 - AWS Certified Solutions Architect – Associate (SAA)
 - AWS Certified Developer – Associate (DVA)
 - AWS Certified Cloud Practitioner (CLF)
