@@ -17,25 +17,26 @@
 ## Sobre Mim <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Nerd%20Face.png?raw=true" wigth="25" height="25">
 
 <p align="justify">
-Com trajetória inicial na Engenharia Civil, onde desenvolvi competências sólidas em gestão de projetos, liderança e resolução de problemas complexos, realizei uma transição consolidada para a tecnologia. Meu foco atual é a arquitetura e administração de infraestruturas em nuvem, com ênfase em resiliência e segurança.
+Com trajetória inicial na Engenharia Civil, onde desenvolvi competências sólidas em gestão de projetos, liderança e resolução de problemas complexos, realizo uma transição para a tecnologia. Meu foco atual é a arquitetura e administração de infraestruturas em nuvem, com ênfase em resiliência e segurança.
 </p>
 
 <p align="justify">
-Possuo as certificações AWS, utilizando esse lastro técnico para projetar ambientes escaláveis e de alta disponibilidade. Minha abordagem une o domínio de redes e sistemas Linux à cultura DevSecOps, garantindo que a segurança não seja um elemento dispensável, mas parte intrínseca do ciclo de vida da infraestrutura.
+Minha atuação é centrada no ecossistema AWS, onde utilizo infraestrutura como código para projetar ambientes escaláveis. Integro conhecimentos sólidos de Redes e Segurança (Cisco) à administração de sistemas Linux para garantir conectividade robusta e a proteção nativa dos ativos.
 </p>
 
 <p align="justify">
-Na frente de segurança, utilizo ferramentas de análise ofensiva como Kali Linux, Nmap e Metasploit para realizar auditorias e testes de intrusão, validando a robustez dos ativos e identificando vulnerabilidades antes que se tornem riscos. Complemento essa visão com práticas de SRE para assegurar a observabilidade e a continuidade dos serviços.
+Sob a cultura DevOps e SRE, foco na automação de processos, segurança de redes e observabilidade. Utilizo ferramentas de análise para validar a robustez da infraestrutura e assegurar a alta disponibilidade dos serviços através do monitoramento contínuo e monitoração de métricas.
 </p>
 
 🛠️ **Stack Técnico**
-- **Cloud (AWS):** VPC, EC2, S3, ECS, IAM, Lambda, CloudWatch, Route 53.
-- **Infraestrutura:** Linux (Ubuntu/Debian), Containers (Docker & Kubernetes), Virtualização (VMWare, VirtualBox).
-- **Redes:** Protocolos TCP/IP, Roteamento, Firewall, VPN, Cisco IOS e Wireshark.
-- **Segurança:** Kali Linux, Nmap, Metasploit, Segurança Ofensiva/Defensiva, Hardening e DevSecOps.
-- **DevOps:** Git, GitHub Actions, GitLab, Terraform (IaC), CI/CD.
-- **SRE & Observabilidade:** Zabbix, Prometheus, Grafana.
-- **Automação:** n8n e Make.
+- **Cloud (AWS):** EC2, Lambda, ECS/EKS, VPC, Route 53, CloudFront, S3, EBS/EFS, IAM, KMS, WAF e SSM.
+- **DevOps & IaC:** Terraform, CloudFormation, Docker, Kubernetes, CI/CD e Git/GitHub.
+- **SysAdmin:** Linux (Debian/Ubuntu), Windows Server, Virtualização (VMWare, VirtualBox), Bash Scripting e PowerShell.
+- **Redes:** IPv4/IPv6, VLSM, VLANs, TCP/IP, Cisco Packet Tracer, Cisco IOS, Zabbix e Wireshark.
+- **Observabilidade:** Alta Disponibilidade, Resiliência, CloudWatch e CloudTrail.
+- **Segurança:** Hardening, CyberOps, Nmap, Kali Linux, Metasploit e LGPD.
+- **Governança & FinOps:** AWS Config, Trusted Advisor e Cost Explorer.
+- **Dados:** SQL (MySQL, PostgreSQL), NoSQL (MongoDB, Cassandra), Spark, Hadoop e Python (Pandas/NumPy).
 
 🎓 **Certificações e Formação Relevante**
 - AWS Certified CloudOps Engineer – Associate (SOA)
